@@ -77,10 +77,18 @@ Georgi Bozhinov, 2018
 - Great office accomodations
 - Started working on real-world projects immediately
 
-- Conclusion: Promises fulfilled.
+- Conclusion: Promises fulfilled, would recommend it to others.
 
 ---
 
 ### Diagram of mind-blowness
 
 <img src="assets/SAPDiagram.png">
+
+---
+
+<img src="assets/question-cat.png">
+
+---
+
+Thank you for the attention!
