@@ -1,4 +1,6 @@
-## Internship at SAP - A recap
+## Internship at SAP
+
+### A recap
 
 <img src="assets/sap.png" width="400">
 
@@ -11,11 +13,11 @@ Georgi Bozhinov, 2018
 ### Tech
 @snapend
 
-@snap[west sidebar]
+@snap[west sidebar-left]
 <img src="assets/nodejs.png" width="200">
 @snapend
 
-@snap[east sidebar]
+@snap[east sidebar-right]
 <img src="assets/python.png" width="200">
 @snapend
 
@@ -31,18 +33,19 @@ Georgi Bozhinov, 2018
 ### Tech
 @snapend
 
-@snap[west sidebar]
+@snap[west span-20]
 <img src="assets/cloudfoundry.png" width="200"> 
 @snapend
 
-@snap[east sidebar]
+@snap[east span-20]
 <img src="assets/kubernetes.png" width="200">
 @snapend
 
 - Cloud platforms
 - Docker + containers
 - On-premise concepts
-- Intro and diving into Kubernetes
+- Intro to Kubernetes
+- Diving into Kubernetes
 
 ---
 
@@ -54,7 +57,6 @@ Georgi Bozhinov, 2018
 - Great opportunity for research
 
 ---
-
 ### Organization
 
 - Weekly meetings with manager + feedback
@@ -63,10 +65,11 @@ Georgi Bozhinov, 2018
 - Helpful people
 - Lots of things to process
 
+<img src="assets/seal.jpg" width="300">
 ---
 
-### Expectations
+### Expectations and promises
 
 - Work on interesting stuff
-- Work with a good team as promised
+- Work with a good team
 - Great office accomodations
