@@ -64,8 +64,10 @@ Georgi Bozhinov, 2018
 - Onboarding from team
 - Helpful people
 - Lots of things to process
+- Scrum methodology + plannings + DSM
 
 <img src="assets/seal.jpg" width="300">
+
 ---
 
 ### Expectations and promises
@@ -73,3 +75,12 @@ Georgi Bozhinov, 2018
 - Work on interesting stuff
 - Work with a good team
 - Great office accomodations
+- Started working on real-world projects immediately
+
+- Conclusion: Promises fulfilled.
+
+---
+
+### Diagram of mind-blowness
+
+<img src="assets/SAPDiagram.png">
